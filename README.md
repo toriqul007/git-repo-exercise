@@ -15,3 +15,8 @@ Make sure to follow our code standards and our directions how to setup the prefe
 * As a user I want to be able to navigate between pages using a main menu displayed at the top of each page.
 
 Direct change in dev, because I can /Ironboy
+
+### Features / user stories
+* toriqul- as a user add a picture on the site so the site will be looking nice
+* jahed- as a user add a button on I can click on it
+* shehab- as a user add a sub-head line 
